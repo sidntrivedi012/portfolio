@@ -24,7 +24,7 @@ projects:
   exclude:
     archived: false
     forks: false
-    projects: resume,meetups,git_workshop,comm-committee-wiki,website
+    projects: portfolio,meetups,git_workshop,comm-committee-wiki,website
     # - repo-name
 
 social_media:
